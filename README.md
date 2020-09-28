@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I do not anymore support Wordpress in any way, they need to resolve their legal issues first.
+
 <!--
 **flowl/flowl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
