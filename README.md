@@ -9,7 +9,7 @@ I like developing API based software, services, bots, ... in `php`, `python` and
 
 -----
 
-Due to recent [GDPR issues on self hosted bugtrackers](https://core.trac.wordpress.org/), I decided to **not** anymore report any bugs outside of GitHub.
+Due to recent GDPR issues on self hosted bugtrackers, I decided to **not** anymore report any bugs outside of GitHub.
 The way I am going to notify about an issue, even security related, adheres to the following principle:
 
 1. You have [enabled issues](https://guides.github.com/features/issues/) and if applicable, have [added a security policy](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/adding-a-security-policy-to-your-repository) to your projects GitHub repository: I will open an issue there.
